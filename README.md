@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DC-Enujioke
+- 👋 Hi, I’m @DC-Enujioke.
 - 👀 I’m interested in backend and frontend development.
 - 🌱 I’m currently learning Html, CSS, Javascript and many more.
-- 💞️ I’m looking to collaborate with young devs and pros,
+- 💞️ I’m looking to collaborate with young devs and pros.
 - 📫 How to reach me:- 07037314137 or enujiokedominic@gmail.com.
 
 <!---
